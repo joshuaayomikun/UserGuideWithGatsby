@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(n,t,u){"use strict";u.r(t),u.d(t,"default",(function(){return o}));u("q1tI");var c=u("Bl7J"),e=(u("q4sD"),u("vEkO"),u("qKvR"));function o(n){n.data;return Object(e.a)(c.a,null,Object(e.a)("h3",null,"Welcome to Luminate"))}},q4sD:function(n,t,u){},vEkO:function(n,t,u){}}]);
+//# sourceMappingURL=component---src-pages-index-js-3eeb2e922030265fe614.js.map
