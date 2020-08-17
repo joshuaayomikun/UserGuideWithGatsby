@@ -7,13 +7,26 @@ title: "Introduction"
 date: "2020-09-27"
 ---
 
+## Table of Contents
+
+```toc
+exclude: Table of Contents
+from-heading: 2
+to-heading: 6
+```
+
 ## About Luminate
 
   Luminate is a learning management platform that aggregates the creation
   and consumption of education content for smarter and more impactful
   learning. The solution offers access to tons of educational content for
   online learning at all levels..
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ## Objectives
 
 Luminate is a knowledge bank where teachers and learners of all levels
@@ -44,7 +57,7 @@ Bellow are the list of benefits users get from using luminate system
 * 24/7 Support.
 
 
-### Students
+## Students
 
 Everyone seeking educational information is a learner; from Pre-School to
  Basic learning, Higher Learning, and Self development. Luminate allows student do the following:
@@ -54,7 +67,7 @@ Everyone seeking educational information is a learner; from Pre-School to
  * Monitor your learning progress. 
  * Work and submit assignments easily.
 
-### Instructors
+## Instructors
 
 Instructors can utilize educational content on the platform to optimise their jobs and offer educational value. Luminate allows instructors do the following:
 * Create your own virtual classrooms  
@@ -65,7 +78,7 @@ Instructors can utilize educational content on the platform to optimise their jo
 * Give assignments and tests, and mark easily. 
 * Engage and collaborate with parents through a dashboard
 
-### Content Creators
+## Content Creators
 
 Providers of educational content can also converge to share knowledge in
 exchange for (monetary) value. Luminate allows content creators to do the following:
@@ -84,6 +97,3 @@ compatibility, you may use any of the browsers Edge, Chrome, Mozilla etc.
 ![alt text](/images/landing_page.jpg "Title")
 
 You can also [click on this link](https://www.luminate.ng) to direct you to Luminate Homepage
-
-
-
