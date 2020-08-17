@@ -1,9 +1,9 @@
 ---
 menu: "Student"
 menuOrder: 2
-submenu: "Student SignUP"
+submenu: "Student Signup"
 submenuOrder: 1
-title: "Student SignUp"
+title: "Student Signup"
 date: "2020-08-29"
 ---
 
@@ -32,7 +32,12 @@ to-heading: 6
 
 Students without an account can access the system from the homepage by
       clicking **‘Login’** button on the side navigation bar.
-      ![alt text](/images/Login.png "Title") 
+
+<br />
+
+![alt text](/images/Login.png "Title")
+
+<br />
 
 They can also have access to the login form  [via this link](https://www.luminate.ng/LoginView).
 

@@ -3,9 +3,9 @@ import Menu from './menu'
 import { useStaticQuery, graphql } from "gatsby"
 import {
   Navbar,
-  Input,
-  NavItem,
-  NavLink
+  NavLink,
+  Nav,
+  NavItem
 } from 'reactstrap'
 
 export default function Sidebar({toggleSidebar = ' d-none '}) {
@@ -63,16 +63,16 @@ export default function Sidebar({toggleSidebar = ' d-none '}) {
     // console.log({menuListDiv})
     return (
         <Navbar color="light" light className={`col-md-3` + toggleSidebar + ` col-lg-2 d-md-block sidebar`}>
-          <div className="sidebar-sticky">
-            <ul className="nav flex-column ml-0">
+          <div className={`sidebar-sticky`}>
+            <Nav className={`flex-column ml-0`}>
               {/* <NavItem className="m-0 px-0">
                 <Input type="text" />
               </NavItem> */}
-              <li className="nav-item m-0">
+              <NavItem className={`m-0`}>
                 <NavLink href="/" >Home</NavLink>
-              </li>
+              </NavItem>
               {menuListDiv}
-            </ul>
+            </Nav>
           </div>
         </Navbar>
     )
