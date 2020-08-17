@@ -65,9 +65,9 @@ export default function Sidebar({toggleSidebar = ' d-none '}) {
         <Navbar color="light" light className={`col-md-3` + toggleSidebar + ` col-lg-2 d-md-block sidebar`}>
           <div className="sidebar-sticky">
             <ul className="nav flex-column ml-0">
-              <NavItem className="m-0 px-0">
+              {/* <NavItem className="m-0 px-0">
                 <Input type="text" />
-              </NavItem>
+              </NavItem> */}
               <li className="nav-item m-0">
                 <NavLink href="/" >Home</NavLink>
               </li>
