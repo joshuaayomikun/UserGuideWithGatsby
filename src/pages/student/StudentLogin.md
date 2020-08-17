@@ -8,6 +8,25 @@ date: "2020-08-27"
 ---
 
 
+<br />
+<br />
+<br />
+<br />
+
+## Table of Contents
+
+<br />
+
+```toc
+exclude: Table of Contents
+from-heading: 2
+to-heading: 6
+```
+
+<br />
+<br />
+<br />
+<br />
 
 ## Logging in
 
@@ -61,10 +80,10 @@ date: "2020-08-27"
   * Click on the Tutor tab to view instrutor's data
   * Click on **Back to Library** button to go back to student dashboard
 
-  #### How to View 
+  <!-- #### How to View the 
 
  * Click on the  **Login** button at the top right corner of the navbar
- * Click on **Sign Up** to direct you to Sign Up page
+ * Click on **Sign Up** to direct you to Sign Up page -->
 
 
   #### How to logout Student from the System
@@ -76,6 +95,5 @@ date: "2020-08-27"
  ![alt text](/images/StudentLogout.png "Title") 
 
  * Click on the **“Log Out”** button to exit User from the system
-
   
 

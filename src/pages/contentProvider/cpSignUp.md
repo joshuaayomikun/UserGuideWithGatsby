@@ -25,7 +25,7 @@ date: "2020-07-29"
   ![alt text](/images/Verify.png "Title") 
 
 
-#### How to logout Instructor from the System
+#### How to logout Content Provider from the System
 
  To exit an existing User from the system:
  * Click on the signed in **User** icon at the top right corner of the navbar,
