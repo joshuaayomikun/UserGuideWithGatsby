@@ -6,6 +6,26 @@ submenuOrder: 1
 title: "Instuctor Login"
 date: "2020-07-27"
 ---
+<br />
+<br />
+<br />
+<br />
+
+## Table of Contents
+
+<br />
+
+```toc
+exclude: Table of Contents
+from-heading: 2
+to-heading: 6
+```
+
+<br />
+<br />
+<br />
+<br />
+
 ## Logging in
 
 **Purpose:** To access the Luminate system fully, a login form is

@@ -9,6 +9,25 @@ date: "2020-07-29"
 
 
 <!-- if Schools has an account already they can login, [via this link](https://www.luminate.ng/LoginView). -->
+<br />
+<br />
+<br />
+<br />
+
+## Table of Contents
+
+<br />
+
+```toc
+exclude: Table of Contents
+from-heading: 2
+to-heading: 6
+```
+
+<br />
+<br />
+<br />
+<br />
 
 #### How to Create Account as a new User
 
