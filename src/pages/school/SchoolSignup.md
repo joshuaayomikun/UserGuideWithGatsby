@@ -8,8 +8,7 @@ date: "2020-07-27"
 ---
 
 <br />
-<br />
-<br />
+
 
 ## Table of Contents
 
@@ -21,9 +20,6 @@ from-heading: 2
 to-heading: 6
 ```
 
-<br />
-<br />
-<br />
 <br />
 
 ### School Account Creation
@@ -38,9 +34,7 @@ Schools without an account can access the system from the homepage by
 <!-- if Schools has an account already they can login, [via this link](https://www.luminate.ng/LoginView). -->
 
 <br />
-<br />
-<br />
-<br />
+
 
 #### How to Create Account as a new User
 
@@ -65,9 +59,7 @@ Schools without an account can access the system from the homepage by
   ![alt text](/images/Verify.png "Title")
 
 <br />
-<br />
-<br />
-<br />
+
 
 #### How to logout School from the System
 

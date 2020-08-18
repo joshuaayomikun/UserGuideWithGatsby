@@ -105,7 +105,7 @@ They can also have access to the login form  [via this link](https://www.luminat
 <br />
 <br />
 
-### How to Create Student Account for the first time
+<!-- ### How to Create Student Account for the first time
 
 <br />
 
@@ -115,7 +115,7 @@ They can also have access to the login form  [via this link](https://www.luminat
 <br />
 <br />
 <br />
-<br />
+<br /> -->
 
 ## How to logout Student from the System
 

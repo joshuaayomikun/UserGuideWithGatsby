@@ -8,9 +8,6 @@ date: "2020-09-27"
 ---
 
 <br />
-<br />
-<br />
-<br />
 
 ## Table of Contents
 
@@ -23,11 +20,10 @@ to-heading: 6
 ```
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## About Luminate
+
 <br />
   Luminate is a learning management platform that aggregates the creation
   and consumption of education content for smarter and more impactful
@@ -35,9 +31,7 @@ to-heading: 6
   online learning at all levels..
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## Objectives
 
@@ -51,9 +45,7 @@ their learning paths (pre-school, Basic Learning, High School, Tertiary
 Learning, Self-Learning, and Crowd Learning)
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## Features
 
@@ -64,9 +56,7 @@ Learn about the features we have, and who Luminate is designed for.We have
       Content Creators).
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## Benefits
 
@@ -87,9 +77,7 @@ Bellow are the list of benefits users get from using luminate system
 * 24/7 Support.
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## Students
 
@@ -105,9 +93,7 @@ Everyone seeking educational information is a learner; from Pre-School to
 * Work and submit assignments easily.
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## Instructors
 
@@ -124,9 +110,7 @@ Instructors can utilize educational content on the platform to optimise their jo
 * Engage and collaborate with parents through a dashboard
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## Content Creators
 
@@ -142,9 +126,6 @@ exchange for (monetary) value. Luminate allows content creators to do the follow
 * Track consumption in real time
 
 <br />
-<br />
-<br />
-<br />
 
 ## Launching Luminate
 
@@ -156,4 +137,4 @@ compatibility, you may use any of the browsers Edge, Chrome, Mozilla etc.
 
 ![alt text](/images/landing_page.jpg "Title")
 
-You can also [click on this link](https://www.luminate.ng){:target="_blank"} to direct you to Luminate Homepage
+You can also [click on this link](https://www.luminate.ng) to direct you to Luminate Homepage

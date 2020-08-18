@@ -34,12 +34,11 @@ to-heading: 6
       prompted depending on the selected method of log in, i.e. Student Login,
       School Login and Content Creator Login.
 
-
 #### How to Login as an existing User
 
 <br />
 
-  ![alt text](/images/LoginForm.png "Title") 
+  ![alt text](/images/LoginForm.png "Title")
 
 <br />
 

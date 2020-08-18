@@ -8,10 +8,12 @@ date: "2020-07-20"
 ---
 
 <br />
-<br />
 
 ## Table of Contents
 
+<br />
+<br />
+<br />
 <br />
 
 ```toc
@@ -21,9 +23,7 @@ to-heading: 6
 ```
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## Logging in
 
@@ -34,9 +34,7 @@ to-heading: 6
       School Login and Content Creator Login.
 
 <br />
-<br />
-<br />
-<br />
+
 
 ### How to login  as an existing User
 
@@ -50,9 +48,7 @@ to-heading: 6
 * Click on the **login** button to direct you to the school page
 
 <br />
-<br />
-<br />
-<br />
+
 
 ### How to logout School from the System
 

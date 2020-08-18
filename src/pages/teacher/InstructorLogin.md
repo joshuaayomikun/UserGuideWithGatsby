@@ -44,4 +44,69 @@ to-heading: 6
   * Enter your Password
   * Click on the **login** button to direct you to the instructor's page
 
- 
+ #### How to Create Course Content
+
+ * Click on **Create Course** on the side bar
+
+  ![alt text](/images/CreateContent.png "Title") 
+<br>
+
+* Click on Course
+<br>
+
+![alt text](/images/CourseStep1.png "Title") 
+
+* Click on **Continue** botton to direct you to the next step
+
+<br>
+
+![alt text](/images/CourseStep2.png "Title") 
+
+* Type in Course title
+* Click on **button** to direct you to the next step
+<br>
+
+![alt text](/images/ChooseCategory.png "Title") 
+
+
+* click on the dropdown to select Course cateogory
+<br>
+
+![alt text](/images/CourseCategory.png "Title") 
+
+* Click on **Create Course** button to direct you to the next step
+
+<br>
+
+![alt text](/images/Guidelines.png "Title") 
+
+* Click on **Guideline** Tab to view course guidelines
+
+<br>
+
+![alt text](/images/CourseDetails.png "Title") 
+
+* Click on **CourseDetails** tab to view course details
+* Enter Course description
+* Click on **ChooseFile** to upload Course image
+* Click on **Save Course Details** button to save course
+
+<br>
+
+![alt text](/images/ViewerSettings.png "Title") 
+
+* Select learning path from the dropdown list
+* Select learning area of interest from the dropdown list
+* Select who can view content (School/Public)
+* Click on **Save Viewer Settings** button to save viewers settings
+* Enter Section name 
+* Click on **Add Section** button to add new section 
+
+<br>
+
+![alt text](/images/AddContent.png "Title") 
+* Click on the arrow to release Dropdown
+* Click on **Add Content** button to add new content
+<br>
+
+![alt text](/images/ContentName.png "Title") 
