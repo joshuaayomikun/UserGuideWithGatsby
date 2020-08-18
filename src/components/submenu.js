@@ -1,28 +1,56 @@
-
-            
-import React  from 'react'
-import { Link } from 'gatsby';
-import { Menu } from 'react-feather';
+import React from 'react'
+import {
+    Link
+} from 'gatsby'
+import {
+    Menu
+} from 'react-feather'
 
 import {
     Collapse,
     Nav,
     NavItem
-  } from 'reactstrap';
+} from 'reactstrap'
 
-export default function Submenu({submenus, isOpen}) {
-    const submenusList = submenus.map(submenu => 
-        <NavItem className="m-0" key={submenu.submenu}>
-            <Link to={submenu.url} className="nav-link">
-                <Menu className={`feather`} />{submenu.submenu}
-            </Link>
+const makeSubMenu = submenus => submenus.map(submenu =>
+        <NavItem className = "m-0"
+        key = {
+            submenu.submenu
+        }>
+        <Link to = {
+            submenu.url
+        }
+        className = "nav-link" >
+        <Menu className = {
+            `feather`
+        }
+        />{submenu.submenu} </Link> 
         </NavItem>
-    )
-    return (
-        <Collapse isOpen={isOpen} >
-            <Nav className={`flex-column ml-0`}>
-                {submenusList}
-            </Nav>
-        </Collapse>
-    )
-}
+    ),
+    Submenu = props => {
+        const {
+            submenus,
+            isOpen,
+            onEntering,
+            activeKey,
+            keyPosition
+        } = props,
+        onEnteringCollapse = e => onEntering(e),
+            // [toggle, setToggle] = useState(isOpen),
+            submenusList = makeSubMenu(submenus)
+        // console.log({activeKey, keyPosition})
+        return ( <Collapse onEntering = {
+                onEnteringCollapse
+            }
+            isOpen = {
+                isOpen
+            } >
+            <Nav className = {
+                `flex-column ml-0`
+            } > {
+                submenusList
+            } </Nav> </Collapse>
+        )
+    }
+
+export default Submenu

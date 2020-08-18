@@ -24,6 +24,7 @@
     "gatsby-plugin-sass": "^2.3.12",
     "gatsby-plugin-typography": "^2.5.10",
     "gatsby-remark-autolink-headers": "^2.3.11",
+    "gatsby-remark-external-links": "0.0.4",
     "gatsby-remark-table-of-contents": "0.0.9",
     "gatsby-source-filesystem": "^2.3.22",
     "gatsby-transformer-remark": "^2.8.26",

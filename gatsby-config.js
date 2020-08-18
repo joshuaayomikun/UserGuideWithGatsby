@@ -29,6 +29,13 @@ module.exports = {
               toHeading: 6
             }
           },
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "nofollow"
+            }
+          },
           `gatsby-remark-autolink-headers`
         ],
       },

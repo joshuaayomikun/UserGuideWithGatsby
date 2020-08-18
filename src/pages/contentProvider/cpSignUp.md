@@ -1,9 +1,9 @@
 ---
 menu: "Content Provider"
 menuOrder: 5
-submenu: "Content Provider SignUp"
+submenu: "Content Provider Signup"
 submenuOrder: 2
-title: "Content Provider SignUp"
+title: "Content Provider Signup"
 date: "2020-07-29"
 ---
 
