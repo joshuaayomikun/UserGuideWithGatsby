@@ -13,8 +13,6 @@ date: "2020-07-20"
 
 <br />
 <br />
-<br />
-<br />
 
 ```toc
 exclude: Table of Contents
@@ -23,7 +21,7 @@ to-heading: 6
 ```
 
 <br />
-
+<br />
 
 ## Logging in
 
@@ -34,7 +32,7 @@ to-heading: 6
       School Login and Content Creator Login.
 
 <br />
-
+<br />
 
 ### How to login  as an existing User
 
@@ -42,13 +40,15 @@ to-heading: 6
 
 ![alt text](/images/LoginForm.png "Title")
 
+<br />
+
 * Click on **Login** button to direct you to Student login form
 * Enter your Email address
 * Enter your Password
 * Click on the **login** button to direct you to the school page
 
 <br />
-
+<br />
 
 ### How to logout School from the System
 

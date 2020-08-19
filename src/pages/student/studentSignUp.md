@@ -9,7 +9,6 @@ date: "2020-08-29"
 
 <br />
 <br />
-<br />
 
 ## Table of Contents
 
@@ -21,8 +20,6 @@ from-heading: 2
 to-heading: 6
 ```
 
-<br />
-<br />
 <br />
 <br />
 
@@ -41,8 +38,6 @@ Students without an account can access the system from the homepage by
 
 They can also have access to the login form  [via this link](https://www.luminate.ng/LoginView).
 
-<br />
-<br />
 <br />
 <br />
 
@@ -100,8 +95,6 @@ They can also have access to the login form  [via this link](https://www.luminat
 
  ![alt text](/images/StudentDashboard.png "Title")
 
-<br />
-<br />
 <br />
 <br />
 

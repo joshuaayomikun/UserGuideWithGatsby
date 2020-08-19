@@ -1,12 +1,9 @@
-import React, {
-    useState
-} from 'react'
+import React from 'react'
 
 import Submenu from './submenu'
-
+import {Link} from 'gatsby'
 import {
-    NavItem,
-    NavLink
+    NavItem
 } from 'reactstrap';
 
 import {
@@ -15,55 +12,66 @@ import {
 } from 'react-feather';
 //   import menuStyles from './menu.module.scss'
 
-const changeFeatherIcon = isOpen => !isOpen ? <PlusCircle className = {
+const changeFeatherIcon = (isOpen, activeKey, keyValue) => {
+    return  activeKey !== keyValue? <PlusCircle className = {
         `feather my-auto ml-2`
-    } > </PlusCircle>:<MinusCircle className={`feather my-auto ml-2`}></MinusCircle >,
+} />:<MinusCircle className={`feather my-auto ml-2`}/>},
+    onEnteringCollapsible = e => console.log(""),
+    loadSubmenu = (submenus, activeKey, isOpen, keyValue) => submenus.length > 0?<Submenu onEntering = {
+        onEnteringCollapsible
+    }
+    isOpen = {
+        isOpen
+    }
+    activeKey = {
+        activeKey
+    }
+    keyPosition = {
+        keyValue
+    }
+    submenus = {
+        submenus
+    } > </Submenu>:'',
     Menu = props => {
-        const [isOpen, setIsOpen] = useState(false), {
+        const {
+                isOpen,
+                onToggle,
+                activeKey,
                 menuName,
-                submenus,
-                keyValue
+                submenus =[],
+                keyValue,
+                href = "#"
             } = props,
-            [iskeyValue, setIskeyValue] = useState(keyValue),
+            subs = loadSubmenu(submenus, activeKey, isOpen, keyValue),
             toggle = () => {
-                setIskeyValue(keyValue);
-                setIsOpen(!isOpen)
+                // if(!isOpen)
+                // onToggle(true);
+                // else
+                // onToggle(activeKey !== keyValue?false:true);
                 // console.log({iskeyValue, keyValue})
+                onToggle()
             },
-            onEnteringCollapsible = e => console.log(e)
+            icon = changeFeatherIcon(isOpen, activeKey, keyValue)
+            // console.log({keyValue, activeKey})
         return ( <>
             <NavItem className = "m-0"
             key = {
                 keyValue
             } >
-            <NavLink href = {
-                `#`
+            <Link to = {
+                href
             }
+            activeClassName={`active`}
             className = {
-                `d-flex justify-content-between`
+                `d-flex justify-content-between nav-link`
             }
             onClick = {
                 toggle
             } > {
-                /* <Home className="feather" /> */ } {
                 menuName
             } {
-                changeFeatherIcon(isOpen)
-            } </NavLink> </NavItem> <Submenu onEntering = {
-                onEnteringCollapsible
-            }
-            isOpen = {
-                isOpen
-            }
-            activeKey = {
-                iskeyValue
-            }
-            keyPosition = {
-                keyValue
-            }
-            submenus = {
-                submenus
-            } > </Submenu> </>
+                subs !== ""? icon:""
+            } </Link> </NavItem>{subs}</>
         )
     }
 

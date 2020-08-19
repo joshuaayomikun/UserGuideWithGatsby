@@ -9,7 +9,7 @@ import {
 import {
     Collapse,
     Nav,
-    NavItem
+    NavItem,
 } from 'reactstrap'
 
 const makeSubMenu = submenus => submenus.map(submenu =>
@@ -17,7 +17,7 @@ const makeSubMenu = submenus => submenus.map(submenu =>
         key = {
             submenu.submenu
         }>
-        <Link to = {
+        <Link activeClassName={`active`} to = {
             submenu.url
         }
         className = "nav-link" >
@@ -38,12 +38,12 @@ const makeSubMenu = submenus => submenus.map(submenu =>
         onEnteringCollapse = e => onEntering(e),
             // [toggle, setToggle] = useState(isOpen),
             submenusList = makeSubMenu(submenus)
-        // console.log({activeKey, keyPosition})
+        console.log({activeKey, keyPosition, isOpen})
         return ( <Collapse onEntering = {
                 onEnteringCollapse
             }
             isOpen = {
-                isOpen
+                activeKey === ""? false: activeKey === keyPosition? isOpen:!isOpen
             } >
             <Nav className = {
                 `flex-column ml-0`

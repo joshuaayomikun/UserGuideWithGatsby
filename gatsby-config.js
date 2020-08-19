@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
+    title: `Luminate Online User Guide`,
   },
   plugins: [
     {

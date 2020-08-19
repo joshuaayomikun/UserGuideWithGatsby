@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useState} from 'react'
 import Menu from './menu'
 import {
   useStaticQuery,
@@ -6,14 +6,13 @@ import {
 } from "gatsby"
 import {
   Navbar,
-  NavLink,
-  Nav,
-  NavItem
+  Nav
 } from 'reactstrap'
 
 const Sidebar = props => {
-
-    const allMenuQuery = useStaticQuery(graphql `
+    const [isOpen, setIsOpen] = useState(false),
+    [iskeyValue, setIskeyValue] = useState(''),
+    allMenuQuery = useStaticQuery(graphql `
     query MyQuery {
       allMarkdownRemark(sort: {fields: frontmatter___submenuOrder, order: ASC}) {
         distinct(field: frontmatter___menuOrder)
@@ -57,12 +56,28 @@ const Sidebar = props => {
           submenus: submenulist
         }
       }),
-      menuListDiv = menuList.map(menu => <Menu menuName = {
+      menuListDiv = menuList.map(menu => <Menu 
+        isOpen = {isOpen}
+        onToggle = {() => {
+          const h = menu.menu.split(" ").join("_");
+          if(h === iskeyValue && isOpen){
+            setIskeyValue('')
+            setIsOpen(!isOpen)
+          } else if(h !== iskeyValue && isOpen){
+            setIskeyValue(h)
+          }
+           else {
+            setIskeyValue(h)
+            setIsOpen(!isOpen)
+          }
+        }}
+        menuName = {
           menu.menu
         }
         key = {
           menu.menu.split(" ").join("_")
         }
+        activeKey = {iskeyValue}
         keyValue = {
           menu.menu.split(" ").join("_")
         }
@@ -71,7 +86,7 @@ const Sidebar = props => {
         }
         submenus = {
           menu.submenus
-        } > </Menu>)
+        } />)
 
         // console.log({menuListDiv})
         return ( <Navbar color = "light"
@@ -87,10 +102,8 @@ const Sidebar = props => {
             /* <NavItem className="m-0 px-0">
                             <Input type="text" />
                           </NavItem> */
-          } <NavItem className = {
-            `m-0`
-          } >
-          <NavLink href = "/" > Home </NavLink> </NavItem> {
+          } <Menu href={`/`} key={`home`} keyValue={`home`} menuName={`Home`} />
+          {
             menuListDiv
           } </Nav> </div> </Navbar>
         )

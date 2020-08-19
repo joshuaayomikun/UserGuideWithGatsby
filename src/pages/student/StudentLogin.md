@@ -10,8 +10,6 @@ date: "2020-08-27"
 
 <br />
 <br />
-<br />
-<br />
 
 ## Table of Contents
 
@@ -25,8 +23,6 @@ to-heading: 6
 
 <br />
 <br />
-<br />
-<br />
 
 ## Logging in
 
@@ -36,8 +32,6 @@ to-heading: 6
       prompted depending on the selected method of log in, i.e. Student Login,
       School Login and Content Creator Login.
 
-<br />
-<br />
 <br />
 <br />
 
@@ -56,7 +50,6 @@ to-heading: 6
 
 ![alt text](/images/StudentPage.png "Title")
 
-
 * Click on the **Dashboard** button to direct you to the student dashboard
 
 <br />
@@ -65,23 +58,20 @@ to-heading: 6
 
 <br />
 <br />
-<br />
-<br />
-
-<br />
 
 #### How to Reset Passowrd
+
 <br />
 
  ![alt text](/images/ForgotP.png "Title")
 
- * Click on forgot password 
- * Enter your email adress
- * A mail has been sent to your email
+* Click on forgot password
+* Enter your email adress
+* A mail has been sent to your email
 
 ![alt text](/images/ForgotPassword.png "Title")
 
-* Click on **reset password** button 
+* Click on **reset password** button
 
 ![alt text](/images/Update.png "Title")
 
@@ -89,9 +79,6 @@ to-heading: 6
 * Click on **Update Password** button to direct you to login page
 
 <br />
-<br />
-<br />
-
 <br />
 
 #### How to  Search for a course
@@ -110,6 +97,7 @@ to-heading: 6
 * Click on **Search** to display result with respect to the inputted search
 * Click on the Course to display course infomation
 
+<br />
 <br />
 
 #### How to Learn a free course
@@ -144,6 +132,9 @@ to-heading: 6
 * Click on **Back to Library** button to go back to student dashboard
 * Click on the  **Login** button at the top right corner of the navbar
 * Click on **Sign Up** to direct you to Sign Up page
+
+<br />
+<br />
 
 #### How to logout Student from the System
 
