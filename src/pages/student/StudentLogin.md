@@ -130,8 +130,157 @@ to-heading: 6
 * Click on the back to libray button to direct user back to the list of course
 * Click on the Tutor tab to view instrutor's data
 * Click on **Back to Library** button to go back to student dashboard
-* Click on the  **Login** button at the top right corner of the navbar
-* Click on **Sign Up** to direct you to Sign Up page
+
+
+<br />
+<br />
+
+#### How to Learn a Paid course
+
+<br />
+
+* Click on **Learn Now** on the side bar
+
+<br />
+
+ ![alt text](/images/PaidCourse.png "Title")
+
+* Select  a Course from the list of paid courses on the page
+* Click on **Add to cart** button to  pay for course
+
+![alt text](/images/ContinueShopping.png "Title")
+<br />
+* Click on **Continue Shopping** button to add more courses to cart OR
+* Click on **Checkout** button to pay for the course
+
+![alt text](/images/PayNow.png "Title")
+<br />
+
+* Click on **Pay Now** button to direct you to input your card details
+* Enter your card details
+* Click on **Pay NGN** button to display payment receipt
+
+![alt text](/images/PaymentSuccessful.png "Title")
+<br />
+
+* Click on the **Back To Dashboard** button to take you back to student dashboard
+* Select  a Course from the list of paid courses on the page
+* Click on **Start Course** button to start  course
+
+<br />
+
+  ![alt text](/images/AccountingContent.png "Title")
+
+<br />
+
+* Click on **Content** tab on the right hand corner of the page to display course content
+* Click on **Course info** tab to  display a dropdown
+<br />
+
+  ![alt text](/images/RateCourse.png "Title")
+  <br />
+* Click on **Rate Course** tab to rate course
+* Type in your comment on the comment box
+* Click on **Post** comment button to post your comment
+* Rate the course by clicking on the star of your choice
+<br />
+
+
+  ![alt text](/images/ShareCourse.png "Title")
+
+* Click on **Share Course** button to share course via social media
+<br />
+
+  ![alt text](/images/BacktoDashboard.png "Title")
+  <br />
+
+* Click on the **Tutor** tab to view instrutor's information
+
+* Click on **Back to Dashboard** button to go back to student dashboard
+
+
+<br />
+<br />
+
+#### How to take Practice Quiz
+
+<br />
+
+* Click on **Practice Quiz** on the side bar
+
+<br />
+
+ ![alt text](/images/PracticeQuiz.png "Title")
+<br />
+ * Click on **Start Quiz** button to start quiz
+<br />
+ ![alt text](/images/StartQuiz.png "Title")
+ <br />
+
+* Select the right answers from the list of options
+<br />
+
+ ![alt text](/images/Question.png "Title")
+
+ <br />
+
+* Click on **Skip Question** button to skip a particular question OR
+* Click on **Next Question** button to direct you to the next question
+
+<br />
+
+ ![alt text](/images/Finish.png "Title")
+
+ <br />
+
+* Click on **Previous** button to take you back to previous question
+* Click on **Skip Question** button to skip a particular question OR
+* Click on **Finish** button to end quiz
+<br />
+
+ ![alt text](/images/QuizCompleted.png "Title")
+
+ <br />
+
+ * Click on **Retake Quiz** button to retake quiz
+ * Click on **Review My Answers** button to review quiz answers
+ * Click on **Back To Dashboard** button to take you back to student dashboard
+
+
+
+<br />
+<br />
+
+
+#### How to take Assessment Quiz
+
+<br />
+
+* Click on **Assessment Quiz** on the side bar
+
+<br />
+
+ ![alt text](/images/AssessmentQuiz.png "Title")
+<br />
+
+* Click on any of the Assesment quiz on the page
+
+<br />
+
+ ![alt text](/images/AssessmentQuestion.png "Title")
+<br />
+
+* Click on **Start Button** to start Assessment quiz
+<br />
+
+ ![alt text](/images/StartAssessment.png "Title")
+<br />
+
+
+
+
+
+
 
 <br />
 <br />
