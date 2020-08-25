@@ -1,5 +1,5 @@
 ---
-menu: "Teacher"
+menu: "Instructor"
 menuOrder: 4
 submenu: "Instructor Signup"
 submenuOrder: 1
