@@ -7,6 +7,7 @@ import {
   NavbarBrand,
   Input
 } from 'reactstrap';
+
 // import { css } from "@emotion/core"
 // import { rhythm } from "../utils/typography"
 // import { useStaticQuery, Link, graphql } from "gatsby"
