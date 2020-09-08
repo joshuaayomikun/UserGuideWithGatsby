@@ -38,13 +38,20 @@ to-heading: 6
 #### How to login  as an existing User
 
 <<br />
+* Click on **Login** button to direct you to Student login page
+
+<br />
+
+ ![alt text](/images/LoginForm.png "Title")
+
+<br />
 <br />
 
  ![alt text](/images/LoginForm.png "Title")
 
 <br />
 
-* Click on **Login** button to direct you to Student login form
+
 * Enter your Email address
 * Enter your Password
 * Click on the **login** button to direct you to the student page
@@ -57,6 +64,7 @@ to-heading: 6
 
  ![alt text](/images/StudentDashboard.png "Title")
 
+<br />
 <br />
 <br />
 
@@ -110,6 +118,7 @@ to-heading: 6
 
 <br />
 <br />
+<br />
 
 #### How to access Student Profile
 
@@ -135,6 +144,48 @@ to-heading: 6
 * Click on **Save** button to update changes 
 
 
+<br />
+<br />
+
+
+
+
+#### How to access Students Notification
+
+* Click on the **Notifcation Bell icon** on the navbar
+
+<br />
+
+  ![alt text](/images/NotificationBell.png "Title")
+
+<br />
+
+* Click on **View Message** button to view message
+
+<br />
+
+  ![alt text](/images/ViewMessage.png "Title")
+
+<br />
+
+ * Click on the **Message Icon** tab to view messages sent by the teacher
+
+ <br />
+
+  ![alt text](/images/MessageIcon.png "Title")
+
+<br />
+
+* Click on the **Notification Icon** tab to view notification from LMS classroom
+
+ <br />
+
+  ![alt text](/images/NotificationIcon.png "Title")
+
+<br />
+
+* Click on the **blue text** to direct you to the LMS classroom session OR
+* Click on **Back to Dashboard** to direct you back to student dashboard
 <br />
 <br />
 
