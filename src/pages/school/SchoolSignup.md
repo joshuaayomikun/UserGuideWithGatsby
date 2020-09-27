@@ -23,40 +23,73 @@ to-heading: 6
 <br />
 
 ### School Account Creation
-
-Schools without an account can access the system from the homepage by
-      clicking **‘Login’** button on the side navigation bar
-
-  ![alt text](/images/SchoolLogin.png "Title") 
-
- they can also have access to the login form by clicking on  [this link](https://www.luminate.ng/LoginView).
-
-<!-- if Schools has an account already they can login, [via this link](https://www.luminate.ng/LoginView). -->
-
 <br />
 
+  ![alt text](/images/SchoolLogin.png "Title") 
+  
+<br />
+
+
+
+Schools without an account can access the system from the homepage by
+      clicking **Luminate For Schools**  button on the  navigation bar to direct them to school homepage
+
+ <br />
+
+  ![alt text](/images/SchoolHomepage.png "Title") 
+  
+<br />
+
+
+
+<!-- if Schools has an account already they can login, [via this link](https://www.luminate.ng/LoginView).SchoolSignup
+Verifylink.png -->
+
+<br />
 
 #### How to Create Account as a new User
 
 <br />
 
-* Click on the  **Login** button at the top right corner of the navbar
-* Click on **Sign Up** to direct you to Sign Up page
+* Click on the **Register As A School Admin** button on the navbar to direct you to create account page
 
 <br />
 
- ![alt text](/images/SignUp.png "Title")
+  ![alt text](/images/VerifySchool.png "Title")
 
 <br />
 
-* Select User's learning path
-* Click on **Next** button
 * Enter Email address
 * Click on **Verify** button
 
 <br />
 
-  ![alt text](/images/Verify.png "Title")
+ ![alt text](/images/SchoolCreate.png "Title")
+
+<br />
+
+* An email has been sent to your mail for account activation
+
+<br />
+
+ ![alt text](/images/SchoolActivate.png "Title")
+
+<br />
+
+* Click on **Activate your Account** button to direct you to  School Sign Up page
+<br />
+
+ ![alt text](/images/SchoolSign.png "Title")
+
+<br />
+
+* Enter First name
+* Enter last name
+* Enter password
+* Retype password to confirm password
+* Click on the check box to agree to terms and conditions
+* Click on the Sign Up button to direct you to school dashboard
+
 
 <br />
 
@@ -69,3 +102,4 @@ Schools without an account can access the system from the homepage by
  then
 
 * Click on the **“Log Out”** button to exit User from the system
+

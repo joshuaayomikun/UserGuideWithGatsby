@@ -98,17 +98,7 @@ They can also have access to the login form  [via this link](https://www.luminat
 <br />
 <br />
 
-<!-- ### How to Create Student Account for the first time
-
-<br />
-
-* Click on the  **Login** button at the top right corner of the navbar
-* Click on **Sign Up** to direct you to Sign Up page
-
-<br />
-<br />
-<br />
-<br /> -->
+<
 
 ## How to logout Student from the System
 

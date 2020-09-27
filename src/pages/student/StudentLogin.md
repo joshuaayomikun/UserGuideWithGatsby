@@ -38,7 +38,7 @@ to-heading: 6
 #### How to login  as an existing User
 
 <<br />
-* Click on **Login** button to direct you to Student login page
+* Click on **Login** button on the homepage to direct you to Student login page
 
 <br />
 
@@ -191,7 +191,7 @@ to-heading: 6
 
 #### How to Update student learning path
 
-* Click on the usericon on the navbar
+* Click on the user icon on the navbar
 
 <br />
 
