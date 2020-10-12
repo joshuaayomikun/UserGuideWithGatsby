@@ -52,7 +52,6 @@ to-heading: 6
 <br />
 
 * Click on **Login** button to direct you to School login form
-
 * Enter your Email address
 * Enter your Password
 * Click on the **login** button to direct you to the school page

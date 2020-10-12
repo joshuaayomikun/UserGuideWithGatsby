@@ -58,6 +58,73 @@ to-heading: 6
 ### How to Reset Password
 
 <br />
+<br />
+
+### How to change Instructor password
+
+* Click on the **View Public Profile** text close to the instructor's profile picture OR
+* Click on the usericon on the navbar
+
+<br />
+
+  ![alt text](/images/InstructorUsericon.png "Title")
+
+<br />
+
+* Click on the **Profile**
+* Click on **View Public Profile** close to the instuctor's profile picture
+<br />
+
+  ![alt text](/images/InstructirProfile.png "Title")
+
+<br />
+
+* Click on **Change password** tab
+* Click on **Profile**
+
+<br />
+
+![alt text](/images/InstructorChangePassword.png "Title")
+
+<br />
+
+* Enter old password
+* Enter new password
+* Confirm new password
+* Click on the **Save Changes** button to direct you to login page
+* Click on back to **dashboard** button to direct you to instructor's dashboard OR
+* Click on the **Back** button to log you out of the page
+
+<br />
+<br />
+
+### How to Update Instructor's Profile
+
+* Click on the user icon on the navbar
+
+<br />
+
+  ![alt text](/images/InstructorUsericon.png "Title")
+
+<br />
+
+* Click on **Profile** OR
+* Click on **View Public Profile** close to the instuctor's profile picture
+<br />
+<br />
+
+![alt text](/images/InstructorPersonalInfo.png "Title")
+
+<br />
+
+* Click on **Personal Information** tab
+* Click on **Choose Profile** to change instructor profile picture OR
+* Make neccessary changes on the text area
+* Click on **Save** button to update instructor's profile
+<br/>
+<br/>
+
+### How to Create Course Content
 
  ![alt text](/images/InstructorForgotP.png "Title")
 

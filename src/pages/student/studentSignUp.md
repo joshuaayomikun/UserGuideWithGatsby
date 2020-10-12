@@ -98,6 +98,7 @@ They can also have access to the login form  [via this link](https://www.luminat
 <br />
 <br />
 
+
 ## How to logout Student from the System
 
 <br />
