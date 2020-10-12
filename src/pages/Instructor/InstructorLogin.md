@@ -55,8 +55,6 @@ to-heading: 6
 <br />
 <br />
 
-
-
 ### How to Reset Password
 
 <br />

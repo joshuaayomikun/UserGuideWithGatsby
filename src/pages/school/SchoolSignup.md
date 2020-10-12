@@ -23,6 +23,7 @@ to-heading: 6
 <br />
 
 ### School Account Creation
+
 <br />
 
   ![alt text](/images/SchoolLogin.png "Title") 
@@ -46,6 +47,7 @@ Schools without an account can access the system from the homepage by
 Verifylink.png -->
 
 <br />
+
 
 #### How to Create Account as a new User
 
